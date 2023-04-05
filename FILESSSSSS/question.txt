@@ -1,0 +1,10 @@
+ABC company has decided to implement encryption system
+user will enter the lower the and upperbound value for implementing the encryption the import 
+step is that lower bound < upper bound and count the total number of 2 digit number of prime 
+number of the given range.
+if lower bound > upperbound write the appropriate the message 
+
+teset case
+10 to 40
+
+class a , b , c , d 
